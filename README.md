@@ -1,2 +1,2 @@
 # delta-demo
-demo project
+demo project for class
